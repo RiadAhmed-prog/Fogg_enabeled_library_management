@@ -1,0 +1,1 @@
+python detect.py --weights runs/train/yolov5s_results/weights/best.pt --img 416 --conf 0.4 --source /content/yolov5/FELARS_v4-1/test/images
